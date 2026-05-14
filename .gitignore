@@ -1,0 +1,20 @@
+# Generated assets - do NOT commit
+models/
+logs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env
+
+# Temp/test files
+parsed_task.txt
+pdf_content.txt
+
+# OS files
+.DS_Store
+Thumbs.db
